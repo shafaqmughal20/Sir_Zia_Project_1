@@ -26,7 +26,7 @@ st.markdown(
 )
 
 # Title and Description
-st.title("📊 Data Sweppar - Streamlined Data Processing By Saad Qureshi")
+st.title("📊 Data Sweppar - Streamlined Data Processing By Shafaq Mughal")
 st.write("Effortlessly clean, transform, and visualize your data.")
 
 # Upload Files
